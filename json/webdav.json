@@ -1,10 +1,10 @@
 {
   "drives": [
     {
-      "name": "七米藍",
-      "server": "https://al.chirmyram.com/dav",
-      "user": "alist",
-      "pass": "alist"
+      "name": "百度",
+      "server": "http://try22.xyz:5244/dav",
+      "user": "baidu",
+      "pass": "baidu"
     },
     {
       "name": "影視庫",
